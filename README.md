@@ -130,7 +130,7 @@ Conquistar uma oportunidade na área de tecnologia e cibersegurança, contribuin
 
 💼 LinkedIn: www.linkedin.com/in/arnaldo-vargas-ba639a247  
 📧 Email: arnaldo211vargas@gmail.com  
-🌐 Portfólio: (opcional)  
+🌐 Portfólio: https://github.com/arnaldo211/Mapa_de_Abilidades/tree/main  
 
 ---
 
